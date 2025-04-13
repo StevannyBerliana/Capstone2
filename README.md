@@ -67,7 +67,7 @@ Langkah-langkah yang dilakukan:
 | Jenis Visualisasi | Judul | Insight |
 |-------------------|-------|---------|
 | Heatmap | *Kampanye vs Pengeluaran Produk* | Menunjukkan hubungan kuat antara kampanye dan kategori tertentu |
-| Bar Chart | *Visualisasi Data untuk Memahami Efektivitas Kampanye* | Pola preferensi kampanye berdasarkan tingkat penjualan |
+| Bar Chart | *Visualisasi Data untuk Memahami Efektivitas Kampanye* | Pola spending pelanggan berdasarkan kampanye |
 
 ---
 
